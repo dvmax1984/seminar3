@@ -1,0 +1,15 @@
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.csproj.AssemblyReference.cache
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.AssemblyInfo.cs
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\bin\Debug\net7.0\Ex024.exe
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\bin\Debug\net7.0\Ex024.deps.json
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\bin\Debug\net7.0\Ex024.runtimeconfig.json
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\bin\Debug\net7.0\Ex024.dll
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\bin\Debug\net7.0\Ex024.pdb
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.dll
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\refint\Ex024.dll
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.pdb
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\Ex024.genruntimeconfig.cache
+C:\Users\Mars\Desktop\GB\git_02032022\seminar3\Ex024\obj\Debug\net7.0\ref\Ex024.dll
