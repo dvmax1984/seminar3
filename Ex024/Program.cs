@@ -6,16 +6,19 @@ int GetNumber(string text)
   return Convert.ToInt32(Console.ReadLine());
 }
 
-int GetResult(int n)
+string GetResult(int n)
 {
-  int K = 0;
-  for (int i = 1; i < n; i++)
-  {
-    K = i * i * i;
+  string result = String.Empty;
+  //   string result = "";
+  int index = 1;
 
-    Console.WriteLine(K.ToString() + "  i= " + i.ToString());
+  while (index <= n)
+  {
+    int sqr = index * index * index;
+    result = result + "[" + index + " => " + sqr + "] ";
+    index = index + 1;
   }
-  return K;
+  return result;
 }
 
 
